@@ -1,5 +1,9 @@
 public class MyTest(
 	public static void main(String []args){
-		system.out.println("È¥ËûÂèµÄ¹·Æ¨ÀËÂş°®Çé¹ÊÊÂ£¬ÀÏ×ÓÖ»ÏëÕõÇ®");
+
+		system.out.println("È¥ï¿½ï¿½ï¿½ï¿½Ä¹ï¿½Æ¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â£ï¿½ï¿½ï¿½ï¿½ï¿½Ö»ï¿½ï¿½ï¿½ï¿½Ç®"
+		system.out.println("I Love You");
+		system.out.println("aaa");
+
 	}
 )
